@@ -29,7 +29,7 @@ def main():
             run = False
 
         if game.turn == WHITE:
-            value, new_board = minmax(game.get_board(), 5, NEG_INF, POS_INF, WHITE, game)
+            value, new_board = minmax(game.get_board(), 2, NEG_INF, POS_INF, WHITE, game)
             game.ai_move(new_board)
 
         for event in pygame.event.get():
