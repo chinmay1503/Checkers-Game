@@ -1,7 +1,7 @@
 ![Demo](https://user-images.githubusercontent.com/36131683/110267614-0c591d00-7f75-11eb-93d1-d6d92eda8b71.gif)
 # Checkers-Game
 
-<b> A simple single-player checkers game created using Python’s pygame module which can be played against a computer AI whose calculations are based on the minimax algorithm.
+<b> A simple single-player checkers game created using Python’s pygame module which can be played against a computer AI whose calculations are based on the minimax algorithm. It also shows the specific moves the AI algorithm is considering to figure out the best move through simulations.
 The intention of this project was to implement and understand the working of Minimax Algorithm. <b>
 
 <h3> How it Works? and What's Minimax Algorithm? </h3>
